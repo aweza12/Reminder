@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reminder.DL", "Reminder.DL\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ReminderWebApp", "ReminderWebApp\", "{B0CD8DDE-EBFB-4F84-9E9D-AEE22503D6FC}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_51649"
 		Debug.AspNetCompiler.PhysicalPath = "ReminderWebApp\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51649\"
